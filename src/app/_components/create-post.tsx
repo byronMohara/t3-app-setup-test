@@ -36,7 +36,7 @@ export function CreatePost() {
         className="rounded-full bg-white/10 px-10 py-3 font-semibold transition hover:bg-white/20"
         disabled={createPost.isLoading}
       >
-        {createPost.isLoading ? "Submitting23..." : "Submit23"}
+        {createPost.isLoading ? "Submitting123..." : "Submit123"}
       </button>
     </form>
   );
